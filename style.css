@@ -1,6 +1,6 @@
 .sidebar-container {
     position: fixed;
-    width: 220px;
+    width: 260px;
     height: 100%;
     left: 0;
     overflow-x: hidden;
@@ -35,7 +35,7 @@
 }
 
 .dropdown-header-user a:hover {
-    background: #2ecc71;
+    background: #e44a7a;
     color: #fff;
 }
 
@@ -76,7 +76,7 @@
 }
 
 .total-product .view-details a:hover {
-    color: orange;
+    color: #e44a7a;
 }
 
 .total-product-comment {
@@ -108,7 +108,7 @@
 .sidebar-logo {
     padding: 13px 15px 10px 30px;
     font-size: 20px;
-    background-color: #2ecc71;
+    background-color: #e44a7a;
 }
 
 .sidebar-navigation {
@@ -147,7 +147,7 @@
 }
 
 .sidebar-navigation li::before {
-    background-color: #2ecc71;
+    background-color: #e44a7a;
     position: absolute;
     content: '';
     height: 100%;
@@ -175,5 +175,5 @@
 }
 
 .content-container {
-    padding-left: 220px;
+    padding-left: 260px;
 }
