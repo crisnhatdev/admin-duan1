@@ -58,11 +58,11 @@
 .total-product i {
     font-size: 38px;
     padding: 30px 0;
-    transition: all 2s ease-in-out;
+    transition: all 0.2s ease-in-out;
 }
 
 .total-product i:hover {
-    transform: rotate(360deg);
+    transform: rotate(36deg);
     cursor: pointer;
 }
 
